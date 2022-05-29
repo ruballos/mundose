@@ -5,8 +5,8 @@ trigger:
 
 pool:
   name: MacOsMarco
-  demands:
-    - agent.os -equals MacOsMarcoAgentName
+#  demands:
+#    - agent.os -equals MacOsMarcoAgentName
   
 #pool:
 #  vmImage: ubuntu-latest
